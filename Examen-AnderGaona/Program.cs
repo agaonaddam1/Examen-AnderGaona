@@ -13,7 +13,7 @@ namespace Examen_AnderGaona
             //Ejer 1
             Console.WriteLine("Abriendo Chrome...");
             Thread.Sleep(1000);
-            Process.Start(@"‪C:\Program Files\Google\Chrome\Application\chrome.exe");
+            //Process.Start(@"‪C:\Program Files\Google\Chrome\Application\chrome.exe");
             Console.WriteLine("Chrome Abierto");
 
             //Ejer2
